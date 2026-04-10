@@ -1,0 +1,20 @@
+# ─── BACKEND ───────────────────────────────
+backend/.gradle
+backend/build/
+backend/out/
+backend/.idea
+backend/*.iws
+backend/*.iml
+backend/*.ipr
+backend/src/main/resources/application-local.properties
+
+# ─── FRONTEND ──────────────────────────────
+frontend/node_modules/
+frontend/.vite
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# ─── SYSTEM ────────────────────────────────
+.DS_Store
+*.DS_Store
